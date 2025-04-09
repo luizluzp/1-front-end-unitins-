@@ -1,0 +1,97 @@
+*{
+    margin: 0 ;
+}
+
+.inicio {
+    
+    background-color:   wheat;
+    width: 100;
+    height: 100;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+
+.cabeçalho {
+
+    background-color: rgb(214, 14, 14);
+    width: 100;
+    height: 100;
+    text-align: center;
+    padding: 40px 20px 40px 40px; /* topo, direita, fundo, esquerda */
+
+}
+
+.cabeçalho h1{
+
+    color: #FFD700;
+
+
+}
+
+
+.texto1 {
+    position: absolute;
+    top: 45%;
+    left: 60%;
+    right: 20%;
+    transform: translate(-110%, -110%);
+    color: rgb(14, 13, 13); /* Cor do texto */
+    font-size: 95%; /* Tamanho do texto */
+    font-weight: bold; /* Negrito */
+    text-align: center;
+    
+
+}
+
+
+.imagem1 {
+
+   margin-left: 0%;
+   margin-right: 0%;
+   padding: 40px 20px 40px 40px; /* topo, direita, fundo, esquerda */
+
+}
+
+
+.texto2 {
+
+    background-color: rgb(214, 14, 14);
+    padding-left: 40%;
+    padding-right: 40%;
+    padding-bottom: 2%;
+    font-size: 100%; /* Tamanho do texto */
+    text-align: center;
+   
+    
+}
+
+.imagem2 {
+    background-color: rgb(214, 14, 14);
+    margin-left: 200%;
+    margin-right: 0%;
+    margin-top: -60%;
+    padding: 20px 20px 40px 40px; /* topo, direita, fundo, esquerda */
+}
+
+.texto2 h3{ 
+
+    position: relative;
+    text-align: center;
+    font-size: 98%; /* Tamanho do texto */
+    font-weight: bold; /* Negrito */
+    left: -10%;
+    right: 20%;
+    padding: 10px 20px 40px 40px; /* topo, direita, fundo, esquerda */
+   
+
+}
+
+.desenvolvimento {
+
+    background-color:rgb(214, 14, 14);
+    width: 100;
+    height: 100;
+    padding-left: 0%;
+    padding-right: 0%;
+
+}
